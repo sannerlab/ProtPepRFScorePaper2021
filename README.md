@@ -11,6 +11,9 @@ provided by the authors of:
 
 <h2>Content</h2>
 
+<h3>12_TS_splits.xlsx</h3>
+This excel spreadsheet provides the 21 random splits performed on the training subset to create 12 validation and learnign sets.
+
 <h3>classifiers.tgz</h3>
 use tar zxvf classifiers.tgz to expand this file into the classifier folder containing the pickled RF models described in the paper:
 
